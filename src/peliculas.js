@@ -1,0 +1,1 @@
+db.peliculas.find({"Director":"Rob Minkoff"})
