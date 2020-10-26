@@ -6,8 +6,6 @@ db.peliculas.find({"Director": {$eq: "Rob Minkoff"}});
 
 db.peliculas.find({"Director": "Rob Minkoff"});
 
-db.peliculas.find( { status: { $in: [ "A", "D" ] } } )
-
 db.peliculas.find( { "Nombre": "Avatar"});
 
 /*
