@@ -1,4 +1,4 @@
-# Proyecto con $regex
+# Proyecto base de datos Películas
 
 _Tenemos una colección de películas de la base de datos Películas_
 
